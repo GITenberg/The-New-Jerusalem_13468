@@ -17,6 +17,8 @@ creator:
 description: "The New Jerusalem is a 1920 book written by British writer G. K. Chesterton.\
   \ Dale Ahlquist calls it a \"philosophical travelogue\" of Chesterton's journey\
   \ across Europe to Palestine.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13468#The-New-Jerusalem
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
