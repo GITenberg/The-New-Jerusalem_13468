@@ -1,0 +1,38 @@
+_repo: The-New-Jerusalem_13468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: "The New Jerusalem is a 1920 book written by British writer G. K. Chesterton.\
+  \ Dale Ahlquist calls it a \"philosophical travelogue\" of Chesterton's journey\
+  \ across Europe to Palestine.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2004-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13468'
+  wikidata: Q7753644
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Restoration'
+- !lcsh 'Palestine'
+- !lcsh 'Jerusalem'
+- !lcc 'DS'
+title: The New Jerusalem
+url: http://www.gutenberg.org/ebooks/13468
+wikipedia:
+- https://en.wikipedia.org/wiki/The_New_Jerusalem_(Chesterton_book)
